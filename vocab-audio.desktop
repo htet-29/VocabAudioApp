@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Vocab Audio Generator
+Comment=Generate MP3 files from CSV vocabulary lists using Text-to-Speech
+Exec=vocab-audio
+Icon=vocab-audio-icon
+Terminal=false
+Type=Application
+Categories=Utility;Education;
+Keywords=audio;vocabulary;tts;gtts;csv;
