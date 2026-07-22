@@ -26,7 +26,7 @@ A native Linux desktop application that converts CSV vocabulary lists into indiv
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/VocabAudioApp.git](https://github.com/YOUR_USERNAME/VocabAudioApp.git)
+git clone https://github.com/htet-29/VocabAudioApp.git
 cd VocabAudioApp
 
 # 2. Set up virtual environment and dependencies
